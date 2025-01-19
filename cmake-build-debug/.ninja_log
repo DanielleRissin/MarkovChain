@@ -1,0 +1,8 @@
+# ninja log v6
+57	332	7584945417127106	CMakeFiles/GenericMarkovChain.dir/linked_list.c.obj	98af5e888acc553e
+7	433	7584945416613989	CMakeFiles/GenericMarkovChain.dir/markov_chain.c.obj	c7014579e56878ac
+42	482	7584946861955132	CMakeFiles/GenericMarkovChain.dir/tweets_generator.c.obj	792da5e1f50936bb
+9	188	7585170588459064	CMakeFiles/GenericMarkovChain.dir/snakes_and_ladders.c.obj	92a733d003d2954
+189	382	7585170590263574	GenericMarkovChain.exe	95cffe7f77f7e457
+31	308	7585172489488864	CMakeFiles/GenericMarkovChain.dir/tweets_generator.c.obj	792da5e1f50936bb
+309	551	7585172492258934	GenericMarkovChain.exe	caa710b272812220
